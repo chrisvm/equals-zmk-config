@@ -13,6 +13,7 @@
 #
 ---
 board: ["nice_nano_v2"]
+shield: ["equals48"]
 include:
   - board: boardsource_equals
     # cmake-args: -DDTS_EXTRA_CPPFLAGS=-DEQUALS60=1
